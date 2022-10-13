@@ -37,7 +37,7 @@ $seasonal = [
         "label" => "Annual Funding Drive 2022",
         "start" => "2022-11-6-0",
         "end" => "2022-12-18-0",
-        "target" => "https://www.zeffy.com/en-CA/donation-form/bcec56fb-9c63-4243-8a51-433b049b9efd"
+        "target" => "https://www.zeffy.com/en-CA/donation-form/3034a3f7-a80d-4427-bbd1-9af978339ed7"
     ],
 ];
 
